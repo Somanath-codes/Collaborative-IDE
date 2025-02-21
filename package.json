@@ -19,10 +19,13 @@
   "homepage": "https://github.com/Somanath-codes/Collaborative-IDE#readme",
   "description": "",
   "dependencies": {
+    "axios": "^1.7.9",
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
+    "monaco-editor-react": "^1.0.2",
     "mongoose": "^8.10.1",
-    "socket.io": "^4.8.1"
+    "socket.io": "^4.8.1",
+    "socket.io-client": "^4.8.1"
   }
 }
